@@ -40,6 +40,4 @@ dependencies {
 */
 
     implementation 'co.trikita:anvil-sdk21:10.10.10'
-    implementation 'co.trikita:anvil-design:10.10.10'
-    implementation 'co.trikita:anvil-cardview-v7:10.10.10'
 }
